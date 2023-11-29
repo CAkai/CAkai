@@ -8,5 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                     </p>            
                   
 ### My GitHub Stats
-
+<!--
 <a href="http://www.github.com/AKai"><img src="https://github-readme-stats.vercel.app/api?username=AKai&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=facc15&icon_color=3382ed&bg_color=312e81&hide_border=true&show_icons=true" alt="AKai's GitHub stats" /></a>
+--!>
